@@ -1,2 +1,1 @@
-# testgit
-testing
+new read me txt file push by git 
